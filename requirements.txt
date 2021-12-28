@@ -6,3 +6,4 @@ flake8-nb
 pre-commit
 html5lib
 lxml
+seaborn
